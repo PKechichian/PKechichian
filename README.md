@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center"> Network management :computer: | Cloud :cloud: | Windows | Linux | Blockchain enthusiast :link: | Pinescript </p>
+<h3 align="center"> Network management :globe_with_meridians: | Cloud :cloud: | Windows :computer: | Linux :minidisc: | Blockchain enthusiast :link: | Pinescript :chart_with_upwards_trend: </p>
 
 ---
 
